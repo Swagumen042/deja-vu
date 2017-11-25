@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510589247 source:c:\users\swagumen\documents\my projects\lab7_cykablyat\main.c
+	<stdio.h>
+	<stdlib.h>
+
