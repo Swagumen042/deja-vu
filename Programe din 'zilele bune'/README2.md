@@ -6,4 +6,4 @@
   
   De asemenea, programele de la 1 pana la 39 lipsesc pentru ca alea sunt plictisitoare (si majoritatea le-am facut pana acum).
   
-  
+  Apropo, nici nu mai tin minte ce fac majoritatea asa ca... nu ma intrebati decat cu codul in fata :P
