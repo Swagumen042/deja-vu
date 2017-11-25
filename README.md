@@ -19,4 +19,6 @@ Use a factorial function to help you with the criteria. <i>Mulțumesc Chiș</i>
   Do the same to the left.</b> The implementation of this includes functions that deal with reading and saving files.
   So basically, don't worry about it.
   
+  <b>[NEW]</b>Write a program that reads a three-digit or more, up to MAX_INT, number from the standard input and returns the number without the first digit. Entry parameter will be a string, use string conversion functions, but without the string.h library. You can do it <i>normally</i> but that's no fun. :)
+  
   More will be added as I get tired of life. (But you can do the same by submitting a pull request and by modifying this README yourself.)
